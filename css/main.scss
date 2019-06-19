@@ -1,0 +1,36 @@
+h1 {
+  font-family: 'Montserrat';
+  text-align: center;
+  color: white;
+}
+
+.s1 {
+  background: url('../images/pic1.jpg');
+  background-size: cover;
+}
+
+.s2 {
+  background: url('../images/pic2.jpg');
+  background-size: cover;
+
+  h1 {
+    text-align: left;
+    margin-left: 2em;
+    font-size: 4em;
+  }
+}
+
+.s3 {
+  background: url('../images/pic3.jpg');
+  background-size: cover;
+
+  h1 {
+    text-align: left;
+    margin-left: 2em;
+    font-size: 2em;
+  }
+}
+
+span {
+  background-color: white !important;
+}

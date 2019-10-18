@@ -20,12 +20,12 @@ h1 {
   font-size: 4em;
 }
 
-.s3 {
+.s3tmp {
   background: url("../images/pic3.jpg");
   background-size: cover;
 }
 
-.s3 h1 {
+.s3tmp h1 {
   text-align: left;
   margin-left: 2em;
   font-size: 2em;
